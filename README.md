@@ -1,3 +1,6 @@
-### Hi there 👋
+### Hi! I'm Chen Ning.
+Currently an undergraduate student in Singapore.
+
+📇 **Website:** chenningg.com
 
 [![Chen Ning's github stats](https://github-readme-stats.vercel.app/api?username=chenningg&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
