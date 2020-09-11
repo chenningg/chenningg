@@ -1,5 +1,6 @@
 ### Hi! I'm Chen Ning.
-I'm currently an undergraduate student.
+
+Currently an undergraduate student in Singapore.
 
 📇 **Website:** chenningg.com
 
