@@ -1,6 +1,6 @@
 ### Hi! I'm Chen Ning.
 
-Currently an undergraduate student in Singapore.
+Currently a DevOps Engineer in Singapore.
 
 - 📇 **Website:** [chenningg.com](https://chenningg.com)
 
